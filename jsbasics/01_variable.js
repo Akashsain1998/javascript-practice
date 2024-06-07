@@ -3,7 +3,7 @@ let acccountMail = "akash@gmail.com";
 var accountCity = "ambala";
 
 acccountMail = "adasfasfs"
-accountCity ="kuknno"
+accountCy ="kuknno"
 
 
 /* 
