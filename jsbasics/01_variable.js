@@ -4,6 +4,10 @@ var accountCity = "ambala";
 
 acccountMail = "adasfasfs"
 accountCity ="kuknno"
-accountId = 54545
-// console.table([accountId, acccountMail, accountCity ])
-console.log(accountId);
+
+
+/* 
+prefer not to use var
+because of issue functional scope and block scope
+*/
+ console.table([accountId, acccountMail, accountCity ])
