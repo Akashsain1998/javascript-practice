@@ -1,3 +1,9 @@
-const cogm = ['adr', 'adfadf'];
+const accountId = 154852;
+let acccountMail = "akash@gmail.com";
+var accountCity = "ambala";
 
-console.log(cogm);
+acccountMail = "adasfasfs"
+accountCity ="kuknno"
+accountId = 54545
+// console.table([accountId, acccountMail, accountCity ])
+console.log(accountId);
