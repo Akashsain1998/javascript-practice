@@ -60,7 +60,7 @@ let myname = "akash";
 let Anothername = myname;
  Anothername = "kumar";
 //console.log(myname);
-//console.log(Anothername);
+//console.log(Anothername);  isme ye hoga ki myname me to akash rhega or anothername me kumar ho jayega kyuki ye copy bnata hai stack memory
 
 
 let userOne =
@@ -72,7 +72,7 @@ let userTwo = userOne;
 userTwo.email = "kumar@123"
 
 
-console.log(userOne.email);
+console.log(userOne.email); // isme hmare pass dono ki value change ho jati hai or output wo ayega jo last me update hua hai kyuki ye  heap memory me jata hai jo inka refernce par update krta hai value
 console.log(userTwo.email);
 
 
